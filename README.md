@@ -1,6 +1,6 @@
 # ScanU - Best USDT & TRX Address Explorer | 链上地址查询工具
 
-[![GitHub stars](https://img.shields.io/github/stars/你的用户名/仓库名?style=flat-square)](https://scanu.cc)
+[![GitHub stars](https://img.shields.io/github/stars/Jennydoyes/usdt-address-search-scanu?style=flat-square)](https://scanu.cc)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://scanu.cc)
 
 **ScanU.cc** 是一款极简、快速的区块链地址查询工具，支持 USDT (TRC20/ERC20) 余额查询、交易追踪及波场能量状态监控。
